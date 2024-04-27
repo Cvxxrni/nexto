@@ -1,4 +1,4 @@
-_G.thingtosay = "HI GUYS YAMETE HERE ADD Q.SK FOR UNDETECTED ENVY MOD " 
+_G.thingtosay = "HI GUYS YAMETE HERE ADD Q.SK :))) " 
 if not _G.shoption then _G.shoption = "largest" end
 wait(5) if not game:IsLoaded() then game.Loaded:Wait() end
 
