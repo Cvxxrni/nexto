@@ -1,4 +1,4 @@
-_G.thingtosay = "top 100 ssl plz hmu for boosting on desko q.sk " 
+_G.thingtosay = "WHERE THE HOZ AT PLEASE DM WOCKUP HE NEEDS SOME " 
 if not _G.shoption then _G.shoption = "largest" end
 wait(5) if not game:IsLoaded() then game.Loaded:Wait() end
 
