@@ -1,4 +1,4 @@
-_G.thingtosay = "HMUUU FOR A CUTE EBOY CALLED MOGALY ON DESKO Q.SK " 
+_G.thingtosay = "WHERE THE HOZ AT IM GONNA JERK OF TO MY DOG HMU ON DESKO Q.SK " 
 if not _G.shoption then _G.shoption = "largest" end
 wait(5) if not game:IsLoaded() then game.Loaded:Wait() end
 
