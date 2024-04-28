@@ -1,4 +1,4 @@
-_G.thingtosay = "WHERE THE HOZ AT PLEASE DM WOCKUP HE NEEDS SOME " 
+_G.thingtosay = "WHERE THE HOZ AT PLEASE DM WOCKCUP HE NEEDS SOME " 
 if not _G.shoption then _G.shoption = "largest" end
 wait(5) if not game:IsLoaded() then game.Loaded:Wait() end
 
