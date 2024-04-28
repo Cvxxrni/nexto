@@ -1,4 +1,4 @@
-_G.thingtosay = "Q.SK ONTOP DO NOT BUY SIRIUS GET ARES INSTEAD DM ME " 
+_G.thingtosay = "Q.SK ONTOP DO NOT BUY SIRIUS GET ARES INSTEAD DM ME ON DESKO " 
 if not _G.shoption then _G.shoption = "largest" end
 wait(5) if not game:IsLoaded() then game.Loaded:Wait() end
 
